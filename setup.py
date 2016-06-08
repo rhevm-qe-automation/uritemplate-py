@@ -6,7 +6,7 @@ import uritemplate
 base_url = "http://github.com/uri-templates/uritemplate-py/"
 
 setup(
-  name = 'uritemplate',
+  name = 'python-uri-templates',
   version = uritemplate.__version__,
   description = 'URI Templates',
   author = 'Joe Gregorio',
